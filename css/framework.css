@@ -13,10 +13,6 @@
     display: flex;
 }
 
-[class*="col-"] {
-    flex: 0 0 auto;
-} 
-
 /* intervalli */
 
 @media screen and (max-width: 575px) {
